@@ -54,7 +54,7 @@ Java，python，matlab
 接受能力强，对编程感兴趣
 
 技术参考
-Github库:http//github.com/yunyinzhihua
+Github库:http//github.com/yunyinzhihua.github
 
 个人评价
 
