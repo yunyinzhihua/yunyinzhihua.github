@@ -1,8 +1,12 @@
 # yunyinzhihua.github
 个人简历
+
 求职意向:python开发工程师
+
 联系方式:15836169967
+
 电子邮箱:yunyinzhihua@sina.com
+
 个人格言:只要想，就要去做
 
 #教育背景
